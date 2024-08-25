@@ -1,8 +1,8 @@
-# 팀 1석 3조(Team 1 Stone 3 Birds) 프로젝트 
+# 팀 1석 3조(Team 1 Stone 3 Birds) 업무용 메신저 만들기  프로젝트 
 
-![1석 3조](https://github.com/user-attachments/assets/e0ca323f-b5ff-418f-86c4-b7d94eab5236)
+![1석 3조](https://github.com/user-attachments/assets/e0ca323f-b5ff-418f-86c4-b7d94eab5236){: width="100" height="100"}
 
-# 업무용 메신저 만들기  
+
 
 
 
