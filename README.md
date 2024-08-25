@@ -1,4 +1,11 @@
-# 프로젝트 제목  (업무용 메신저 만들기) / 팀 이름/ 사진 
+# 팀 1석 3조(Team 1 Stone 3 Birds) 프로젝트 
+
+![1석 3조](https://github.com/user-attachments/assets/e0ca323f-b5ff-418f-86c4-b7d94eab5236)
+
+# 업무용 메신저 만들기  
+
+
+
 
 # 프로젝트 진행 배경 (사내 기술 유출 이슈 , 감사팀 메신저 감찰 필요)
 
